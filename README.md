@@ -194,6 +194,20 @@ Send any amount via M-PESA and SMS **+254 742 954 736** or **+254 758 513 955** 
 
 ---
 
+## 📖 Publications — *Wounded Spaces, Resilient Voices*
+
+> A community that has learned to name its wounds has already begun to heal them.
+
+DigitalBloom has published <a href="./PUBLICATIONS.md"><em>Wounded Spaces, Resilient Voices</em></a> — a deeply human account of gender-based violence, community transformation, and the long walk towards dignity in Kenya's informal settlements. Written by Eric Muhoro Muchiri, it is available on Amazon for anyone who believes that truth, told with courage and care, is itself a form of community change.
+
+<a href="https://www.amazon.com/dp/B0GX2ZSCMS"><img src="https://img.shields.io/badge/📖%20Buy%20on%20Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy on Amazon"/></a>
+<a href="https://read.amazon.com/application/home?action=open&asin=B0GX2ZSCMS&ref_=dbs_t_r_khbodl"><img src="https://img.shields.io/badge/📄%20Read%20Free%20Sample-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="Read a Sample"/></a>
+<a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/🤝%20Support%20via%20Publications-1A7A8A?style=for-the-badge" alt="Support via Publications"/></a>
+
+> Every purchase directly supports free and subsidised AI training for underserved communities. <a href="./PUBLICATIONS.md">Learn how →</a>
+
+---
+
 ## 📬 Contact & Partnership Enquiries
 
 | | |
