@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="assets/Digitalbloom.jpeg" alt="DigitalBloom Logo" width="180"/>
+<img src="assets/Digitalbloom.jpg" alt="DigitalBloom Logo" width="180"/>
 
 #  DigitalBloom AI Programme
 ### *Empowering Communities with Future-Ready Artificial Intelligence Skills*
