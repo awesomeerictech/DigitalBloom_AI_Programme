@@ -1,7 +1,9 @@
 <!-- HEADER BANNER -->
 <div align="center">
+
 <img src="assets/DigitalBloom.jpeg" alt="DigitalBloom Logo" width="180"/>
-#  DigitalBloom AI Programme
+
+# 🌸 DigitalBloom AI Programme
 ### *Empowering Communities with Future-Ready Artificial Intelligence Skills*
 
 **Delivered by [Stratetactical Solutions Limited (STL)](mailto:stratetacticallimited@gmail.com) · Kenya**
