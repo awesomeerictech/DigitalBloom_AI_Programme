@@ -10,7 +10,6 @@
 [![Licence: Community Open](https://img.shields.io/badge/Licence-Community%20Open-1A7A8A?style=for-the-badge)](./LICENCE.md)
 [![Programme Status: Active](https://img.shields.io/badge/Programme-Active-2E7D5A?style=for-the-badge)](./PROGRAMME.md)
 [![Donations Welcome](https://img.shields.io/badge/Donations-Welcome-C9A84C?style=for-the-badge)](./SUPPORT.md)
-[![Made in Kenya](https://img.shields.io/badge/Made%20in-Kenya%20🇰🇪-006600?style=for-the-badge)]()
 
 ---
 
