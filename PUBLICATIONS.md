@@ -123,7 +123,8 @@ All standard DigitalBloom support channels apply to publication resource mobilis
 | **Account Name** | Stratetactical Solutions Limited |
 | **Account Number** | 1002892619 |
 | **Swift Code** | CBAFKENX |
-| **Bank Code** | 07 · **Branch Code** | 000 |
+| **Bank Code** | 07 |
+| **Branch Code** | 000 |
 
 #### 🇰🇪 M-PESA (Kenya)
 
