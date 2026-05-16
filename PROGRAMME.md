@@ -1,5 +1,6 @@
 <div align="center">
 <img src="assets/Digitalbloom.jpg" alt="DigitalBloom Logo" width="180"/>
+  
 # DigitalBloom — Programme Mission & Identity
 
 > *"We believe AI literacy is not a privilege — it is a right. DigitalBloom exists to make sure no community is left behind in the AI revolution."*
