@@ -262,13 +262,14 @@ All standard DigitalBloom support channels apply to publication resource mobilis
 | 🏛️ Grant / Institutional Support | [Donate via PayPal →](https://www.paypal.com/ncp/payment/8ZABR9A9BC5GQ) |
 | 💼 Full Project Sponsorship | [Sponsor via PayPal →](https://www.paypal.com/ncp/payment/L5RMGYMNXYCRG) |
 | 🧪 Commission a Paid Pilot | [Fund a Pilot →](https://www.paypal.com/ncp/payment/4MJZ65WKJVHXG) |
+| 🤝 **Other support via paypal account** | programmereric76@gmail.com | Support DigitalBloom AI Programme |
 
 #### 🏦 Bank / Swift Transfer
 
 | Field | Details |
 |---|---|
 | **Bank** | NCBA Bank Kenya PLC |
-| **Account Name** | Stratetactical Solutions Limited |
+| **Account Name** | ERIC M MUCHIRI |
 | **Account Number** | 1002892619 |
 | **Swift Code** | CBAFKENX |
 | **Bank Code** | 07 |
