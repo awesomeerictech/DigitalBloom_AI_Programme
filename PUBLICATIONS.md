@@ -154,7 +154,7 @@ Purchasing *Intelligence on Purpose* is one direct way to support the wider Digi
 > Every purchase, partnership, and contribution helps turn practical knowledge into practical opportunity.
 
 
-
+## 📚 Featured Publication
 
 <div align="center">
 
