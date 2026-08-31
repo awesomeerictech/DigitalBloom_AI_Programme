@@ -95,7 +95,7 @@ DigitalBloom's community programme targets groups that face the highest barriers
 | 🎓 **Youth & Students** | Free or subsidised AI literacy sessions at schools, colleges & universities |
 | 👩 **Women & Girls** | Gender-focused AI empowerment cohorts in partnership with women's groups |
 | ⛪ **Faith-Based Organisations** | AI for community service, administration, communications & outreach |
-| 🏘️ **Community Organisations** | AI tools for project management, reporting, fundraising & advocacy |
+| 🏘️ **Non-Profit and Community Organisations** | AI tools for project management, reporting, fundraising & advocacy |
 | 🏛️ **Local Government Units** | AI for public service delivery, data management & citizen engagement |
 | 🌾 **Rural & Underserved Communities** | Accessible, context-relevant AI training in local languages where possible |
 | 🧑‍💼 **Job Seekers & Informal Workers** | AI career tools, CV enhancement, and freelance capability building |
@@ -149,6 +149,7 @@ If this programme creates value for you, your organisation, or the communities y
 | 🏛️ **Grant / Institutional Support** | [Donate via PayPal →](https://www.paypal.com/ncp/payment/8ZABR9A9BC5GQ) |
 | 💼 **Full Project Sponsorship** | [Sponsor via PayPal →](https://www.paypal.com/ncp/payment/L5RMGYMNXYCRG) |
 | 🧪 **Paid Pilot Session** | [Fund a Pilot via PayPal →](https://www.paypal.com/ncp/payment/4MJZ65WKJVHXG) |
+| 🤝 **Other support via paypal account** | programmereric76@gmail.com | Support DigitalBloom AI Programme |
 
 #### 🏦 Swift / Bank Transfer
 
