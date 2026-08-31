@@ -195,7 +195,7 @@ Send any amount via M-PESA and SMS **+254 742 954 736** or **+254 758 513 955** 
 
 ---
 
-## 📖 Publications — *Intelligence on Purpose*
+## 📖 Publication — *Intelligence on Purpose*
 
 > **Intelligence was never the point. Purpose is.**
 
@@ -222,7 +222,7 @@ Written by Eric Muhoro Muchiri, *Intelligence on Purpose* is available on Amazon
 
 
 
-## 📖 Publications — *Wounded Spaces, Resilient Voices*
+## 📖 Publication — *Wounded Spaces, Resilient Voices*
 
 > A community that has learned to name its wounds has already begun to heal them.
 
