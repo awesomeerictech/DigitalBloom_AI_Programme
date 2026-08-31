@@ -46,7 +46,7 @@ Your contribution is not charity — it is an **investment in human capital, com
 | 🏛️ **Grant / Institutional Support** | [paypal.com/ncp/payment/8ZABR9A9BC5GQ](https://www.paypal.com/ncp/payment/8ZABR9A9BC5GQ) | For foundations, NGOs, development agencies, and institutional donors |
 | 💼 **Full Project Sponsorship** | [paypal.com/ncp/payment/L5RMGYMNXYCRG](https://www.paypal.com/ncp/payment/L5RMGYMNXYCRG) | Fund a complete DigitalBloom community programme deployment |
 | 🧪 **Paid Pilot Session** | [paypal.com/ncp/payment/4MJZ65WKJVHXG](https://www.paypal.com/ncp/payment/4MJZ65WKJVHXG) | Commission a paid pilot for your organisation or a partner community |
-| 🧪 **Other support via paypal account** | [programmereric76@gmail.com] | Support the work |
+| 🧪 **Other support via paypal account** | programmereric76@gmail.com | Support the work |
 
 ---
 
