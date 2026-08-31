@@ -195,6 +195,27 @@ Send any amount via M-PESA and SMS **+254 742 954 736** or **+254 758 513 955** 
 
 ---
 
+## 📖 Publications — *Intelligence on Purpose*
+
+> Intelligence becomes meaningful when it is used with purpose, courage, and care.
+
+DigitalBloom has published <a href="./PUBLICATIONS.md"><em>Intelligence on Purpose</em></a> — a thoughtful exploration of intelligence, purpose, and the human responsibility to use AI knowledge in ways that create meaningful change. Written by Eric Muhoro Muchiri, it is available on Amazon in Kindle, paperback, and hardcover editions for anyone interested in the intersection of intelligence, purpose, and community transformation.
+
+<a href="https://www.amazon.com/dp/B0HC77J12P"><img src="https://img.shields.io/badge/📖%20Buy%20Kindle%20Edition-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy Kindle Edition"/></a>
+<a href="https://read.amazon.com/sample/B0HC77J12P?clientId=share"><img src="https://img.shields.io/badge/📄%20Read%20Kindle%20Sample-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="Read Kindle Sample"/></a>
+
+<a href="https://www.amazon.com/dp/B0HD6YJZNM"><img src="https://img.shields.io/badge/📕%20Buy%20Paperback-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy Paperback"/></a>
+<a href="https://read.amazon.com/sample/B0HD6YJZNM?clientId=share"><img src="https://img.shields.io/badge/📄%20Read%20Paperback%20Sample-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="Read Paperback Sample"/></a>
+
+<a href="https://www.amazon.com/dp/B0HDS494C9"><img src="https://img.shields.io/badge/📘%20Buy%20Hardcover-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy Hardcover"/></a>
+<a href="https://read.amazon.com/sample/B0HDS494C9?clientId=share"><img src="https://img.shields.io/badge/📄%20Read%20Hardcover%20Sample-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="Read Hardcover Sample"/></a>
+
+<a href="./PUBLICATIONS.md"><img src="https://img.shields.io/badge/🤝%20Support%20via%20Publications-1A7A8A?style=for-the-badge" alt="Support via Publications"/></a>
+
+> Every purchase directly supports free and subsidised AI training for underserved communities. <a href="./PUBLICATIONS.md">Learn how →</a>
+
+
+
 ## 📖 Publications — *Wounded Spaces, Resilient Voices*
 
 > A community that has learned to name its wounds has already begun to heal them.
