@@ -197,9 +197,15 @@ Send any amount via M-PESA and SMS **+254 742 954 736** or **+254 758 513 955** 
 
 ## 📖 Publications — *Intelligence on Purpose*
 
-> Intelligence becomes meaningful when it is used with purpose, courage, and care.
+> **Intelligence was never the point. Purpose is.**
 
-DigitalBloom has published <a href="./PUBLICATIONS.md"><em>Intelligence on Purpose</em></a> — a thoughtful exploration of intelligence, purpose, and the human responsibility to use AI knowledge in ways that create meaningful change. Written by Eric Muhoro Muchiri, it is available on Amazon in Kindle, paperback, and hardcover editions for anyone interested in the intersection of intelligence, purpose, and community transformation.
+DigitalBloom AI Programme has published <a href="./PUBLICATIONS.md"><em>Intelligence on Purpose</em></a> — a practical, community-rooted guide to using artificial intelligence for real work. Written for the **trader, the health worker, the manager, and the builder**, rather than the specialist alone, the book takes the reader from the foundations of giving effective instructions to the design and use of full agentic systems.
+
+Across **44 chapters and 6 parts**, it brings together the grammar of instruction, a complete library of **41 frameworks and 22 techniques**, the architecture of reasoning, retrieval, agents, and governance, and the machine learning and software engineering beneath modern AI systems. It then moves into the working enterprise — from **marketing, finance, and funding to broader organisational applications** — before widening the lens to community, sector, and institutional use.
+
+The book closes as a practical working reference, with **100 complete project briefs** and a gallery of **more than 2,000 real-life examples**. Every claim is dated and marked for what it is, keeping the focus not on AI as a spectacle, but on what intelligence can accomplish when deliberately directed toward useful work.
+
+Written by Eric Muhoro Muchiri, *Intelligence on Purpose* is available on Amazon in Kindle, paperback, and hardcover editions for anyone looking to move from simply understanding AI to **using it with structure, judgment, and purpose**.
 
 <a href="https://www.amazon.com/dp/B0HC77J12P"><img src="https://img.shields.io/badge/📖%20Buy%20Kindle%20Edition-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy Kindle Edition"/></a>
 <a href="https://read.amazon.com/sample/B0HC77J12P?clientId=share"><img src="https://img.shields.io/badge/📄%20Read%20Kindle%20Sample-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="Read Kindle Sample"/></a>
