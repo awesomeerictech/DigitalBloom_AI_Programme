@@ -10,6 +10,154 @@ DigitalBloom is not only a training programme. It is a **knowledge ecosystem** �
 
 <div align="center">
 
+### *Intelligence on Purpose*
+#### A Practical, Community-Rooted Guide to Using Artificial Intelligence for Real Work
+
+**by Eric Muhoro Muchiri**
+*Chief Technical Officer & AI Engineer, Stratetactical Solutions Limited*
+
+---
+
+[![Buy Kindle Edition](https://img.shields.io/badge/📖%20Buy%20Kindle%20Edition-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0HC77J12P)
+[![Read Kindle Sample](https://img.shields.io/badge/📄%20Read%20Kindle%20Sample-232F3E?style=for-the-badge&logo=amazon&logoColor=white)](https://read.amazon.com/sample/B0HC77J12P?clientId=share)
+
+[![Buy Paperback](https://img.shields.io/badge/📕%20Buy%20Paperback-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0HD6YJZNM)
+[![Read Paperback Sample](https://img.shields.io/badge/📄%20Read%20Paperback%20Sample-232F3E?style=for-the-badge&logo=amazon&logoColor=white)](https://read.amazon.com/sample/B0HD6YJZNM?clientId=share)
+
+[![Buy Hardcover](https://img.shields.io/badge/📘%20Buy%20Hardcover-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0HDS494C9)
+[![Read Hardcover Sample](https://img.shields.io/badge/📄%20Read%20Hardcover%20Sample-232F3E?style=for-the-badge&logo=amazon&logoColor=white)](https://read.amazon.com/sample/B0HDS494C9?clientId=share)
+
+</div>
+
+---
+
+### What This Book Is About
+
+Artificial intelligence is no longer something that belongs only to researchers, engineers, and technology companies. It has entered the workplace, the enterprise, the classroom, the community, and the everyday decisions people make about how to get things done.
+
+But knowing that AI exists is not the same as knowing how to use it.
+
+*Intelligence on Purpose* is a **practical, community-rooted guide to using artificial intelligence for real work**. It is written for the trader, the health worker, the manager, and the builder — for people who need to turn intelligence into useful action rather than simply understand the technology from a distance.
+
+The book moves deliberately from the simplest instruction to the design of full agentic systems. Across **forty-four chapters and six parts**, it builds a complete working picture of what it means to use AI well — from the language of instructions and reusable frameworks to reasoning, retrieval, agents, governance, machine learning, software engineering, enterprise application, and community impact.
+
+It is not written for the specialist alone.
+
+It is written for the person asking a much more practical question:
+
+**How can intelligence help me do meaningful work better?**
+
+---
+
+### Why You Cannot Put It Down
+
+The book begins where most people's interaction with AI actually begins: **with an instruction**.
+
+From there, it expands outward.
+
+Readers encounter the grammar of effective instruction alongside a complete library of **forty-one frameworks and twenty-two techniques**. The book then moves beneath the surface to explain the architecture of reasoning, retrieval, agents, and governance — before going deeper into the machine learning and software engineering that make modern AI systems possible.
+
+But *Intelligence on Purpose* does not stop at technology.
+
+It follows intelligence into the workplace and the enterprise, examining how AI can be applied across functions including **marketing, finance, funding, management, and operations**. From there, the frame becomes wider still: community, sector, and institution.
+
+The result is not simply a book about artificial intelligence.
+
+It is a guide to **putting intelligence to work**.
+
+The final sections turn the book into something practical enough to keep beside you: **one hundred complete project briefs** provide starting points for real implementations, while a gallery containing **more than two thousand real-life examples** expands the possibilities further.
+
+Every claim is dated and marked for what it is.
+
+And beneath the entire book sits one principle:
+
+> **Intelligence was never the point. Purpose is.**
+
+---
+
+### The Six Parts
+
+| Part | Focus |
+|---|---|
+| 🧭 **Part I — Instruction** | The grammar of instruction and the foundations of communicating effectively with AI |
+| 🧰 **Part II — Frameworks & Techniques** | A complete library of 41 frameworks and 22 techniques for practical AI work |
+| 🧠 **Part III — Intelligence Architecture** | Reasoning, retrieval, agents, governance, and the systems behind useful AI |
+| 💻 **Part IV — The Technology Beneath** | Machine learning and software engineering explained in the context of modern AI |
+| 🏢 **Part V — Intelligence at Work** | Applying AI inside a working enterprise, from marketing and finance to funding and operations |
+| 🌍 **Part VI — Intelligence Beyond the Enterprise** | Community, sector, and institutional applications — and the wider purpose of intelligent systems |
+
+---
+
+### Who Should Read This Book
+
+| Reader | Why It Matters to You |
+|---|---|
+| 🛍️ **Traders & entrepreneurs** | Practical ways to use AI to improve everyday work, decisions, communication, and operations |
+| 🏥 **Health workers** | A grounded approach to applying AI without requiring specialist technical knowledge |
+| 🏢 **Managers & business leaders** | A framework for understanding where AI fits across teams, functions, workflows, and enterprise systems |
+| 👨‍💻 **Builders & developers** | A bridge from practical AI use to reasoning systems, agents, software engineering, and implementation |
+| 🎓 **Educators & researchers** | A broad reference spanning AI practice, technical foundations, frameworks, techniques, and applications |
+| 🏛️ **Development practitioners & NGOs** | Community-rooted examples of how AI can support real institutional and development work |
+| 💰 **Finance & funding professionals** | Practical applications of AI across financial workflows, analysis, funding, and resource mobilisation |
+| 🌍 **Community & institutional leaders** | A wider perspective on how intelligence can be applied beyond individual productivity to communities and institutions |
+| 🤖 **AI practitioners** | A structured reference covering frameworks, techniques, architectures, agents, governance, and implementation |
+| 📚 **Anyone trying to understand AI's practical value** | A guide focused not on AI for its own sake, but on what intelligence can make possible when directed toward a purpose |
+
+---
+
+### About the Author
+
+**Eric Muhoro Muchiri** is a technologist, Chief Technical Officer, and AI Engineer at Stratetactical Solutions Limited, with a background in Information Technology from Karatina University.
+
+His work sits at the intersection of **technology, artificial intelligence, enterprise systems, and human development** — an intersection that shapes the central argument of *Intelligence on Purpose*.
+
+The book approaches AI not as a distant technological spectacle, but as a tool that belongs in the hands of people doing real work.
+
+Its perspective is deliberately broad: from the individual instruction to the enterprise system, from technical architecture to community application, and from today's capabilities to the institutions that will need to govern and use them responsibly.
+
+The underlying conviction is simple:
+
+**Intelligence has value because of what it enables people to accomplish.**
+
+---
+
+### 🛒 Get the Book
+
+| Edition | Purchase | Sample |
+|---|---|---|
+| 📖 **Kindle Edition** | [Buy on Amazon](https://www.amazon.com/dp/B0HC77J12P) | [Read Sample →](https://read.amazon.com/sample/B0HC77J12P?clientId=share) |
+| 📕 **Paperback** | [Buy on Amazon](https://www.amazon.com/dp/B0HD6YJZNM) | [Read Sample →](https://read.amazon.com/sample/B0HD6YJZNM?clientId=share) |
+| 📘 **Hardcover** | [Buy on Amazon](https://www.amazon.com/dp/B0HDS494C9) | [Read Sample →](https://read.amazon.com/sample/B0HDS494C9?clientId=share) |
+
+> Every edition of *Intelligence on Purpose* is an invitation to move beyond simply knowing about artificial intelligence — and toward using intelligence deliberately, responsibly, and in service of meaningful work.
+
+---
+
+## 💰 Support DigitalBloom Through Publications
+
+Purchasing *Intelligence on Purpose* is one direct way to support the wider DigitalBloom mission. Publications also create a **resource mobilisation opportunity** for organisations, institutions, educators, businesses, and communities that want to help make practical AI knowledge more accessible.
+
+### How Publication Sales & Support Fund DigitalBloom
+
+| Your Contribution | What It Makes Possible |
+|---|---|
+| 📖 **Buying the book** | Supports the publication ecosystem and the continued development of practical AI resources |
+| 🏢 **Bulk purchasing for your organisation** | Gives your staff, teams, leadership, or community a shared practical reference for using AI |
+| 🤝 **Funding future publications** | Helps support the development of additional practical resources on AI, technology, community development, and digital transformation |
+| 🌍 **Sponsoring free distribution** | Helps make practical AI knowledge available to community organisations, schools, educators, and underserved groups |
+| 🎓 **Supporting AI training** | Contributes toward free and subsidised AI training for people and communities who may otherwise have limited access to practical AI education |
+| 📡 **Commissioning community editions** | Supports the development of simplified or locally adapted AI resources for specific communities, sectors, and institutions |
+| 🏛️ **Academic & institutional partnerships** | Enables organisations to develop curriculum, training materials, workshops, and institutional resources derived from practical AI knowledge |
+
+> **Intelligence was never the point. Purpose is.**
+>
+> Every purchase, partnership, and contribution helps turn practical knowledge into practical opportunity.
+
+
+
+
+<div align="center">
+
 ### *Wounded Spaces, Resilient Voices*
 #### Gender-Based Violence, Community Transformation, and the Long Walk Towards Dignity in Kenya's Informal Settlements
 
