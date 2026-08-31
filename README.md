@@ -157,7 +157,7 @@ For institutional donors, foundations, and government grants:
 | Field | Details |
 |---|---|
 | **Bank** | NCBA Bank Kenya PLC |
-| **Account Name** | Stratetactical Solutions Limited |
+| **Account Name** | ERIC M MUCHIRI |
 | **Account Number** | 1002892619 |
 | **Swift Code** | CBAFKENX |
 | **Bank Code** | 07 |
