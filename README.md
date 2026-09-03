@@ -149,7 +149,7 @@ If this programme creates value for you, your organisation, or the communities y
 | 🏛️ **Grant / Institutional Support** | [Donate via Remitly →](https://www.remitly.com) |
 | 💼 **Full Project Sponsorship** | [Sponsor via Remitly →](https://www.remitly.com) |
 | 🧪 **Paid Pilot Session** | [Fund a Pilot via Remitly →](https://www.remitly.com) |
-| 🤝 **Other support via Remitly ** | using the bank details below (Bank: NCBA Bank Kenya PLC account: 1002892619 and Account name Eric M Muchiri)   or M-PESA 0742954736 | Support DigitalBloom AI Programme |
+| 🤝 Other support via Remitly  | using the bank details below (Bank: NCBA Bank Kenya PLC, Account: 1002892619 and Account name Eric M Muchiri)   or M-PESA 0742954736 | Support DigitalBloom AI Programme |
 
 #### 🏦 Swift / Bank Transfer
 
