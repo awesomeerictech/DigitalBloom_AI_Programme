@@ -142,14 +142,14 @@ If this programme creates value for you, your organisation, or the communities y
 
 ### 🌐 International Donors & Organisations
 
-#### PayPal — Grants & Sponsorships
+#### Remitly — Grants & Sponsorships
 
-| Type | Link |
+| Type | Mode |
 |---|---|
-| 🏛️ **Grant / Institutional Support** | [Donate via PayPal →](https://www.paypal.com/ncp/payment/8ZABR9A9BC5GQ) |
-| 💼 **Full Project Sponsorship** | [Sponsor via PayPal →](https://www.paypal.com/ncp/payment/L5RMGYMNXYCRG) |
-| 🧪 **Paid Pilot Session** | [Fund a Pilot via PayPal →](https://www.paypal.com/ncp/payment/4MJZ65WKJVHXG) |
-| 🤝 **Other support via paypal account** | programmereric76@gmail.com | Support DigitalBloom AI Programme |
+| 🏛️ **Grant / Institutional Support** | [Donate via Remitly →](https://www.remitly.com) |
+| 💼 **Full Project Sponsorship** | [Sponsor via Remitly →](https://www.remitly.com) |
+| 🧪 **Paid Pilot Session** | [Fund a Pilot via Remitly →](https://www.remitly.com) |
+| 🤝 **Other support via Remitly ** | using the bank details below (Bank: NCBA Bank Kenya PLC account: 1002892619 and Account name Eric M Muchiri)   or M-PESA 0742954736 | Support DigitalBloom AI Programme |
 
 #### 🏦 Swift / Bank Transfer
 
