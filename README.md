@@ -140,7 +140,7 @@ If this programme creates value for you, your organisation, or the communities y
 
 ---
 
-### 🌐 International Donors & Organisations
+### 🌐 International Funders & Organisations
 
 #### Remitly — Grants & Sponsorships
 
