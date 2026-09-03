@@ -27,7 +27,7 @@
 
 DigitalBloom is **open in spirit and community-driven.**
 
-We run the programme commercially for institutions that can sustain it, and at **little or no cost** for communities, grassroots organisations, faith-based groups, and underserved populations. This repository is the resource mobilisation hub for our community and donor-supported programmes.
+We run the programme commercially for institutions that can sustain it, and at **little or no cost** for communities, non-profit organisations, faith-based groups, and underserved populations. This repository serves as the resource mobilisation hub for the DigitalBloom Community Programme, supporting engagement with funders and partners to secure the resources required to sustain and effectively deliver the programme at scale.
 
 ---
 
