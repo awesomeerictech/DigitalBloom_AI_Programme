@@ -11,7 +11,7 @@ Artificial Intelligence is reshaping every sector — healthcare, finance, educa
 
 **DigitalBloom exists to change that.**
 
-We run the programme commercially for institutions that can sustain it, and at **little or no cost** for communities, grassroots groups, youth, women's organisations, faith communities, and underserved populations. But free delivery is only possible with donor and sponsor support.
+We run the programme commercially for institutions that can sustain it, and at **little or no cost** for communities, grassroots groups, youth, women's organisations, faith communities, and underserved populations. But free delivery is only possible with funder and sponsor support.
 
 Your contribution is not charity — it is an **investment in human capital, community resilience, and equitable digital transformation.**
 
@@ -90,9 +90,9 @@ All donors are recognised in our impact reports and programme acknowledgements. 
 | 🌱 **Seed Supporter** | KES 1,000 | ~USD 8 | Training materials for one community participant |
 | 🌿 **Community Champion** | KES 5,000 | ~USD 40 | One complete free community session (15–20 learners) |
 | 🌸 **Programme Partner** | KES 25,000 | ~USD 190 | Full 5-session series for a community cohort |
-| 🌺 **Impact Sponsor** | KES 100,000 | ~USD 750 | Full programme track for a community organisation |
-| 🌺🌺 **Anchor Donor** | KES 250,000 | ~USD 1,900 | Multi-cohort community deployment with impact report |
-| 🏆 **Transformation Donor** | KES 500,000+ | ~USD 3,800+ | Full institutional community programme — new location |
+| 🌺 **Impact Funder** | KES 100,000 | ~USD 750 | Full programme track for a community organisation |
+| 🌺🌺 **Anchor Funder** | KES 250,000 | ~USD 1,900 | Multi-cohort community deployment with impact report |
+| 🏆 **Transformation Funder** | KES 500,000+ | ~USD 3,800+ | Full institutional community programme — new location |
 
 ---
 
