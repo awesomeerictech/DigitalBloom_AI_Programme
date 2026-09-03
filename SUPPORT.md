@@ -37,16 +37,16 @@ Your contribution is not charity — it is an **investment in human capital, com
 
 ## How to Support
 
-### 🌐 International Donors, Foundations & Organisations
+### 🌐 International Funders, Foundations & Organisations
 
-#### PayPal
+#### Remitly — Grants & Sponsorships
 
-| Support Type | PayPal Link | Purpose |
-|---|---|---|
-| 🏛️ **Grant / Institutional Support** | [paypal.com/ncp/payment/8ZABR9A9BC5GQ](https://www.paypal.com/ncp/payment/8ZABR9A9BC5GQ) | For foundations, NGOs, development agencies, and institutional donors |
-| 💼 **Full Project Sponsorship** | [paypal.com/ncp/payment/L5RMGYMNXYCRG](https://www.paypal.com/ncp/payment/L5RMGYMNXYCRG) | Fund a complete DigitalBloom community programme deployment |
-| 🧪 **Paid Pilot Session** | [paypal.com/ncp/payment/4MJZ65WKJVHXG](https://www.paypal.com/ncp/payment/4MJZ65WKJVHXG) | Commission a paid pilot for your organisation or a partner community |
-| 🤝 **Other support via paypal account** | programmereric76@gmail.com | Support DigitalBloom AI Programme |
+| Type | Mode |
+|---|---|
+| 🏛️ **Grant / Institutional Support** | [Donate via Remitly →](https://www.remitly.com) |
+| 💼 **Full Project Sponsorship** | [Sponsor via Remitly →](https://www.remitly.com) |
+| 🧪 **Paid Pilot Session** | [Fund a Pilot via Remitly →](https://www.remitly.com) |
+| 🤝 Other support via Remitly  | using the bank details below (Bank: NCBA Bank Kenya PLC, Account: 1002892619 and Account name Eric M Muchiri)   or M-PESA 0742954736 | Support DigitalBloom AI Programme |
 
 ---
 
