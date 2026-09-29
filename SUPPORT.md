@@ -68,7 +68,7 @@ For institutional transfers, government grants, foundation disbursements, and in
 
 ---
 
-### 🇰🇪 Kenya-Based Supporters
+###  Kenya-Based Supporters
 
 #### M-PESA — Lipa na M-PESA Paybill
 
