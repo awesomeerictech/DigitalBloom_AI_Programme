@@ -46,7 +46,7 @@ Your contribution is not charity — it is an **investment in human capital, com
 | 🏛️ **Grant / Institutional Support** | [Donate via Remitly →](https://www.remitly.com) |
 | 💼 **Full Project Sponsorship** | [Sponsor via Remitly →](https://www.remitly.com) |
 | 🧪 **Paid Pilot Session** | [Fund a Pilot via Remitly →](https://www.remitly.com) |
-| 🤝 Other support via Remitly  | using the bank details below (Bank: NCBA Bank Kenya PLC, Account: 1002892619 and Account name Eric M Muchiri)   or M-PESA 0742954736 | Support DigitalBloom AI Programme |
+| 🤝 Other support via Remitly  | using the bank details below (Bank: NCBA Bank Kenya PLC, Account: 1012250432 and Account name STRATETACTICAL SOLUTIONS LIMITED )   or M-PESA 0742954736 | Support DigitalBloom AI Programme |
 
 ---
 
@@ -57,11 +57,11 @@ For institutional transfers, government grants, foundation disbursements, and in
 | Field | Details |
 |---|---|
 | **Bank Name** | NCBA Bank Kenya PLC |
-| **Account Name** | ERIC M MUCHIRI |
-| **Account Number** | 1002892619 |
+| **Account Name** | STRATETACTICAL SOLUTIONS LIMITED |
+| **Account Number** | 1012250432 |
 | **Swift Code** | CBAFKENX |
 | **Bank Code** | 07 |
-| **Branch Code** | 000 |
+| **Branch Code** | 123 |
 | **Country** | Kenya |
 
 > 📧 Please notify us at **stratetacticallimited@gmail.com** after your transfer. Include your name/organisation, the transfer amount, and intended purpose so we can acknowledge your gift, issue a formal receipt, and ensure your contribution is directed correctly.
@@ -74,7 +74,7 @@ For institutional transfers, government grants, foundation disbursements, and in
 
 ```
 Paybill Number  :  880100
-Account Number  :  1002892619
+Account Number  :  1012250432
 ```
 
 Send any amount via M-PESA and SMS **+254 742 954 736** or **+254 758 513 955** with your name and "DigitalBloom Support" so we can acknowledge your gift personally.
